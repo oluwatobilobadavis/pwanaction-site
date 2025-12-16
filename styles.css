@@ -224,7 +224,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 20px;
+  padding: 4px 20px;
 }
 
 /* Logo styles for image */
@@ -1480,3 +1480,4 @@ img {
   }
 
 }
+
